@@ -1,0 +1,28 @@
+:root{
+
+}
+
+/* SPLASH SCREEN */
+.splash-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #FFDB59;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.splash-content {
+    text-align: center;
+}
+
+/* Hide main content initially */
+.main-content {
+    display: none;
+}
+
+
+/*HEADER*/
